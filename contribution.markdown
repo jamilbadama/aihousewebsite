@@ -4,7 +4,7 @@ title: contrubtion
 permalink: /contrubtion/
 ---
 
-this is contrbution page
+this is contrbution page this is testing
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
